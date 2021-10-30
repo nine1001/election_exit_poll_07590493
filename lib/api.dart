@@ -36,7 +36,7 @@ class Api {
     }
   }
 
-  /*Future<dynamic> fetch(
+  Future<dynamic> fetch(
       String endPoint, {
         Map<String, dynamic>? queryParams,
       }) async {
@@ -62,5 +62,5 @@ class Api {
     } else {
       throw 'Server connection failed!';
     }
-  }*/
+  }
 }
