@@ -132,7 +132,7 @@ class _ResultPageState extends State<ResultPage> {
                                         child :
                                         Container(
                                           padding: EdgeInsets.only(top: 8),
-                                          width: 35,
+                                          width: 45,
                                           height: 45,
                                           decoration:
                                           BoxDecoration(color: Colors.green),
